@@ -6,6 +6,7 @@ paychecks are looped into bank account till exploit is fixed.
 van heist humane labs and casino heist all have been added.
 grove street along with alta street garage has been re-added.
 updated compass/street names while in vehilces.
+added nearest postals use `/postal` to get gps coords to a area.
 
 # Fixes
 Fishing - Boats now give keys.
