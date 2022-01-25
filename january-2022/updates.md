@@ -5,11 +5,12 @@ all cars have been forced to depot. (reclaim your car and park it again)
 paychecks are looped into bank account till exploit is fixed.
 van heist humane labs and casino heist all have been added.
 grove street along with alta street garage has been re-added.
-updated compass/street names while in vehilces.
+updated hud & compass/street names while in vehilces. /menu to use or `[I]`
 added nearest postals use `/postal` to get gps coords to a area.
 
 # Fixes
 Fishing - Boats now give keys.
+vehicle lockpick minigame.
 
 # Car updates
 20+ cars handling files have been updated.
