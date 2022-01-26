@@ -10,6 +10,7 @@ Pet store has been added <3 Enjoy your best friends! (no blip) normal pet store 
 # Fixes
 Bennys not repairing.
 Garage issues. (check alta st. There is a garage there i just have the blip off)
+/shirt now removes shirt.
 
 # Car updates
 40+ cars have been added to luxury dealer.
