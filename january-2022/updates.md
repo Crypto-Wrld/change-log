@@ -1,6 +1,7 @@
 # 1.28.2022
 Car radios have been fixed.
-fixed pdm list (missing sports)
+Fixed pdm list (missing sports)
+The pier has a new addition! Lunar park is open!
 
 # 1.27.2022
 Anti VDM script has been added.
