@@ -3,7 +3,7 @@ Car radios have been fixed.
 Fixed pdm list (missing sports)
 The pier has a new addition! Lunar park is open!
 Added Televisions that are able to play Twitch and youtube videos.
-
+Removed qb-djbooth and replaced it with a whole new BETTER DJ system!
 
 # 1.27.2022
 Anti VDM script has been added.
