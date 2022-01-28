@@ -4,6 +4,8 @@ Fixed pdm list (missing sports)
 The pier has a new addition! Lunar park is open!
 Added Televisions that are able to play Twitch and youtube videos.
 Removed qb-djbooth and replaced it with a whole new BETTER DJ system!
+Prison has been locked down and all blips have been moved to the respected area's. (jailing is now possible)
+Community Service is also an option.
 
 # 1.27.2022
 Anti VDM script has been added.
