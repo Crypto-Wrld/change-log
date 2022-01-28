@@ -1,3 +1,11 @@
+# 1.28.2022
+Car radios have been fixed.
+
+
+# 1.27.2022
+Anti VDM script has been added.
+Removed collisions from gas pumps so they dont explode.
+
 # 1.26.2022
 110 Chairs have been added for purchase.
 Chair stores have been added around the city.
