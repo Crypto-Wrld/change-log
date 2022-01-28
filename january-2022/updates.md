@@ -8,6 +8,7 @@ Prison has been locked down and all blips have been moved to the respected area'
 Community Service is also an option.
 Refuel Vehicle only shows up in Gas Station zone or when you have a PetrolCan on you! (YAY!)
 Removed markers from casino (use 3rd eye with employees)
+Updated hud stress speeds. Unbuckled & Buckled.
 
 # 1.27.2022
 Anti VDM script has been added.
