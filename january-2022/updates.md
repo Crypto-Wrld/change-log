@@ -6,7 +6,8 @@ Added Televisions that are able to play Twitch and youtube videos.
 Removed qb-djbooth and replaced it with a whole new BETTER DJ system!
 Prison has been locked down and all blips have been moved to the respected area's. (jailing is now possible)
 Community Service is also an option.
- Refuel Vehicle only shows up in Gas Station zone or when you have a PetrolCan on you! (YAY!)
+Refuel Vehicle only shows up in Gas Station zone or when you have a PetrolCan on you! (YAY!)
+Removed markers from casino (use 3rd eye with employees)
 
 # 1.27.2022
 Anti VDM script has been added.
