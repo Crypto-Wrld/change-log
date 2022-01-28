@@ -1,6 +1,6 @@
 # 1.28.2022
 Car radios have been fixed.
-
+fixed pdm list (missing sports)
 
 # 1.27.2022
 Anti VDM script has been added.
