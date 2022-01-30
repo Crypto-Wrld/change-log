@@ -1,3 +1,10 @@
+# 1.30.2022
+help force has been added. press [H] in game.
+We are looking for helpers to assist with the help force. if interested please open a ticket!
+
+# Changes 
+Lucky wheel reset time has been extended to avoid the "glitch"
+
 # 1.29.2022
 Added missing items (that i know of.)
 
