@@ -1,3 +1,6 @@
+# 1.29.2022
+Added missing items (that i know of.)
+
 # 1.28.2022
 Car radios have been fixed.
 Fixed pdm list (missing sports)
