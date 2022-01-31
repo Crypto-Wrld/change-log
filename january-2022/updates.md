@@ -1,9 +1,11 @@
 # 1.30.2022
 help force has been added. press [H] in game.
 We are looking for helpers to assist with the help force. if interested please open a ticket!
+Crafting bench has finally been added HAPPY HUNTING FELLAS <3
 
 # Changes 
 Lucky wheel reset time has been extended to avoid the "glitch"
+CASINO WAS REMOVED WHOLE FOR THE MOMENT.
 
 # 1.29.2022
 Added missing items (that i know of.)
