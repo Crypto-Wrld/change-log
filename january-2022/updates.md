@@ -1,6 +1,10 @@
 # 1.31.2022
 Added djbooth to cat cafe <3 Make sure to give these guys all your money !!
 Gas Tuners is now open! Swing by the docks and check them out for ya tuning needs!
+Added new emotes (some gang signs)
+
+# Removed 
+Mini golf. It was conflicting with arcade.
 
 # 1.30.2022
 help force has been added. press [H] in game.
