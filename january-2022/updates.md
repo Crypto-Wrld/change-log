@@ -1,3 +1,6 @@
+# 1.31.2022
+Added djbooth to cat cafe <3 Make sure to give these guys all your money !!
+
 # 1.30.2022
 help force has been added. press [H] in game.
 We are looking for helpers to assist with the help force. if interested please open a ticket!
