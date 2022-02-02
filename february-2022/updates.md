@@ -1,3 +1,10 @@
+# 2.2.2022
+Reverted a build back to fix errors (sorry its still not stable enough)
+White Widow job added.
+
+# Removed
+Mile High Club (was causing minecraft effects in the city)
+
 # 2.1.2022
 Crafting station has been moved. Should be easier now to find!
 Removed armored vehicles.
