@@ -11,6 +11,10 @@ Added Plasma Karting.
 Added okokTextUI
 Added rental location (cayo perico)
 
+# Fixed
+Readded Boss menus.
+Readded Gang menus.
+
 # On hold
 Phone - Its been put on hold as i did not notice crypto is not offered in the phone.
 
