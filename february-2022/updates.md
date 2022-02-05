@@ -6,6 +6,7 @@ New car dealer script with stock & restock missions!
 New Drug system! (being worked on)
 Added LSPD cars to new garage system.
 Added mailboxes to homes.
+Added air craft hanger to cayo perico island.
 
 # On hold
 Phone - Its been put on hold as i did not notice crypto is not offered in the phone.
