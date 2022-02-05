@@ -1,3 +1,18 @@
+# 2.5.2022
+Latest QBCore version.
+Crypto Wrld 2.5 was released.
+Added a few new maps and pd's.
+New car dealer script with stock & restock missions!
+New Drug system! (being worked on)
+Added LSPD cars to new garage system.
+
+# On hold
+Phone - Its been put on hold as i did not notice crypto is not offered in the phone.
+
+# Removed
+Original car dealer script.
+Underground drift map. (for new gabz map)
+
 # 2.3.2022
 Added evidence & clothing to davis pd
 Added new garage system again
