@@ -9,6 +9,7 @@ Added mailboxes to homes.
 Added air craft hanger to cayo perico island.
 Added Plasma Karting.
 Added okokTextUI
+Added rental location (cayo perico)
 
 # On hold
 Phone - Its been put on hold as i did not notice crypto is not offered in the phone.
