@@ -10,6 +10,8 @@ Added air craft hanger to cayo perico island.
 Added Plasma Karting.
 Added okokTextUI
 Added rental location (cayo perico)
+Return of the luckywheel.
+Return of inside track betting.
 
 # Fixed
 Readded Boss menus.
@@ -17,6 +19,7 @@ Readded Gang menus.
 
 # On hold
 Phone - Its been put on hold as i did not notice crypto is not offered in the phone.
+GOKARTS - Missing some stuff <3
 
 # Removed
 Original car dealer script.
