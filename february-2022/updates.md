@@ -1,3 +1,6 @@
+# 2.6.2022
+Fixed armor for everyone in general you will no longer put on a backpack xD.
+
 # 2.5.2022
 Latest QBCore version.
 Crypto Wrld 2.5 was released.
