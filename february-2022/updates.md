@@ -2,6 +2,7 @@
 Planes are purchaseable now.
 Added a few drug fields labatorys and a few other locations that can give you mats.
 Few vehicles handling was edited for better performance and handling.
+Added Alta St garage.
 
 # Shared vehicle lua
 Ive added the custom boats for the boat shop. Now just missing gta 5 vanilla boats.
