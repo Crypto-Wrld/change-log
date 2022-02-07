@@ -4,6 +4,7 @@ Added a few drug fields labatorys and a few other locations that can give you ma
 Few vehicles handling was edited for better performance and handling.
 Added Alta St garage.
 Added okokNotify to garage notifications!
+Udpated MDT
 
 # Shared vehicle lua
 Ive added the custom boats for the boat shop. Now just missing gta 5 vanilla boats.
