@@ -1,3 +1,12 @@
+# 2.7.2022
+Planes are purchaseable now.
+Added a few drug fields labatorys and a few other locations that can give you mats.
+Few vehicles handling was edited for better performance and handling.
+
+# Shared vehicle lua
+Ive added the custom boats for the boat shop. Now just missing gta 5 vanilla boats.
+Ive added a few planes for plane shop. Missing a few and good to go.
+
 # 2.6.2022
 Fixed armor for everyone in general you will no longer put on a backpack xD.
 
