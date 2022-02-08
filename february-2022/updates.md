@@ -9,6 +9,7 @@ Fixed storage units with additional addons listed below
 - Upgradable storage units (storage space).
 Fixed gun repair location. (dnt ask for it)
 Changed all storage unit notifications to the new okokNotify. (testing phase)
+Updated menu & input css <3
 
 # 2.7.2022
 Planes are purchaseable now.
