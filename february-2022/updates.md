@@ -7,6 +7,7 @@ Fixed storage units with additional addons listed below
 - add/remove friends to storage.
 - You can have more then 1 storage at the same location.
 - Upgradable storage units (storage space).
+Fixed gun repair location. (dnt ask for it)
 
 # 2.7.2022
 Planes are purchaseable now.
