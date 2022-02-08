@@ -3,7 +3,10 @@ GO KARTS ARE FULLY FUNCTIONAL!
 Boats are now purchsable and able to DOCK!
 Updated shared lua from ty's latest version.
 Fixed money wash. Should get notification when its done.
-
+Fixed storage units with additional addons listed below
+- add/remove friends to storage.
+- You can have more then 1 storage at the same location.
+- Upgradable storage units (storage space).
 
 # 2.7.2022
 Planes are purchaseable now.
