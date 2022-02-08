@@ -1,5 +1,6 @@
 # 2.8.2022
 GO KARTS ARE FULLY FUNCTIONAL!
+Boats are now purchsable and able to DOCK!
 
 # 2.7.2022
 Planes are purchaseable now.
