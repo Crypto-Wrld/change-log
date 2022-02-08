@@ -8,6 +8,7 @@ Fixed storage units with additional addons listed below
 - You can have more then 1 storage at the same location.
 - Upgradable storage units (storage space).
 Fixed gun repair location. (dnt ask for it)
+Changed all storage unit notifications to the new okokNotify. (testing phase)
 
 # 2.7.2022
 Planes are purchaseable now.
