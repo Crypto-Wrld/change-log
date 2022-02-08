@@ -1,3 +1,6 @@
+# 2.8.2022
+GO KARTS ARE FULLY FUNCTIONAL!
+
 # 2.7.2022
 Planes are purchaseable now.
 Added a few drug fields labatorys and a few other locations that can give you mats.
