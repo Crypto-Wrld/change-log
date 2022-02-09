@@ -3,6 +3,7 @@ Updated Burgershot script.
 Updated Cat Cafe script.
 Updated Pizzathis script.
 Updated Henhouse script.
+Updated Vanilla Unicorn script.
 
 # 2.8.2022
 GO KARTS ARE FULLY FUNCTIONAL!
