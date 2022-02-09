@@ -1,3 +1,6 @@
+# 2.9.2022
+Updated Burgershot script.
+
 # 2.8.2022
 GO KARTS ARE FULLY FUNCTIONAL!
 Boats are now purchsable and able to DOCK!
