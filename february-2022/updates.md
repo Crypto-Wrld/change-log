@@ -6,6 +6,7 @@ Updated Henhouse script.
 Updated Vanilla Unicorn script.
 Updated Mechanic Script.
 Added Pops Diner.
+Added a few locks around the unicorn.
 
 # 2.8.2022
 GO KARTS ARE FULLY FUNCTIONAL!
