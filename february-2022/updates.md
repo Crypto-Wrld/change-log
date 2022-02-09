@@ -5,6 +5,7 @@ Updated Pizzathis script.
 Updated Henhouse script.
 Updated Vanilla Unicorn script.
 Updated Mechanic Script.
+Added Pops Diner.
 
 # 2.8.2022
 GO KARTS ARE FULLY FUNCTIONAL!
