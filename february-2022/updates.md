@@ -1,5 +1,7 @@
 # 2.9.2022
 Updated Burgershot script.
+Updated Cat Cafe script.
+
 
 # 2.8.2022
 GO KARTS ARE FULLY FUNCTIONAL!
