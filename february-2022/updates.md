@@ -2,6 +2,7 @@
 Updated Tequilala job
 Fixed Car Radio !
 Added a new item for mechanics.
+Added new drug items.
 
 # 2.9.2022
 Updated Burgershot script.
