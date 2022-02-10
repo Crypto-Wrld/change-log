@@ -1,5 +1,6 @@
 # 2.10.2022
 Updated Tequilala job
+Fixed Car Radio !
 
 # 2.9.2022
 Updated Burgershot script.
