@@ -1,3 +1,6 @@
+# 2.10.2022
+Updated Tequilala job
+
 # 2.9.2022
 Updated Burgershot script.
 Updated Cat Cafe script.
