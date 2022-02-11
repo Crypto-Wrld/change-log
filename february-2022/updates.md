@@ -1,3 +1,6 @@
+# 2.11.2022
+Updated CFX files to 5327
+
 # 2.10.2022
 Updated Tequilala job
 Fixed Car Radio !
