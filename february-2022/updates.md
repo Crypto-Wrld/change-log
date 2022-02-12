@@ -1,5 +1,9 @@
+# 2.12.2022
+Added missing petfood item.
+
 # 2.11.2022
-Updated CFX files to 5327
+Updated CFX files to 5327.
+Added new promo code system.
 
 # 2.10.2022
 Updated Tequilala job
