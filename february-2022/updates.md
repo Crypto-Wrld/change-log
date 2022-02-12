@@ -1,6 +1,7 @@
 # 2.12.2022
 Added missing petfood item.
 Added White Widow Job Correctly <3
+Cleared pool props from white widow pool table.
 
 # 2.11.2022
 Updated CFX files to 5327.
