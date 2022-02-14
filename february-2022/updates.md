@@ -1,3 +1,7 @@
+# 2.14.2022
+Added gang system with turf wars. (still needs configuring) 
+Added okokchat
+
 # 2.12.2022
 Added missing petfood item.
 Added White Widow Job Correctly <3
