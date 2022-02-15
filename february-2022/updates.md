@@ -8,6 +8,8 @@ Added okokReport
 Added new spawn menu
 Removed qb-spawn
 Updated build 5352
+Removed old fishing script
+Added New World Fishing.
 
 
 # 2.12.2022
