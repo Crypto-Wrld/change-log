@@ -3,6 +3,8 @@ Added gang system with turf wars. (still needs configuring)
 Added respected trigger events in to qb-drugs & qb-storerobbery
 Added okokchat.
 Fixed vanilla unicorn oven.
+Added okokBilling
+
 
 # 2.12.2022
 Added missing petfood item.
