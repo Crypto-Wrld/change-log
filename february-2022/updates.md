@@ -4,6 +4,7 @@ Added respected trigger events in to qb-drugs & qb-storerobbery
 Added okokchat.
 Fixed vanilla unicorn oven.
 Added okokBilling
+Added okokReport
 
 
 # 2.12.2022
