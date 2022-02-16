@@ -5,6 +5,7 @@ Edited rcore gang drug prices.
 Added extra house shells again.
 Added houses available for purchase to the map legend.
 Scrapyard reciving text messages. (just need them to show in messages)
+Scrapyard is 100% functional!
 
 # 2.14.2022
 Added gang system with turf wars. (still needs configuring) 
