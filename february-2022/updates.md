@@ -10,6 +10,7 @@ Removed qb-spawn
 Updated build 5352
 Removed old fishing script
 Added New World Fishing.
+Added drug labatorys.
 
 
 # 2.12.2022
