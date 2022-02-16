@@ -3,6 +3,7 @@ Added drug labatorys.
 Fixed Harness.
 Edited rcore gang drug prices.
 Added extra house shells again.
+Added houses available for purchase to the map legend.
 
 # 2.14.2022
 Added gang system with turf wars. (still needs configuring) 
