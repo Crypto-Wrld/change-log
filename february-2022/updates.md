@@ -12,6 +12,7 @@ Removed old fishing script
 Added New World Fishing.
 Added drug labatorys.
 Fixed Harness.
+Edited rcore gang drug prices.
 
 
 # 2.12.2022
