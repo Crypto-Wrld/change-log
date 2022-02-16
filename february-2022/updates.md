@@ -4,6 +4,7 @@ Fixed Harness.
 Edited rcore gang drug prices.
 Added extra house shells again.
 Added houses available for purchase to the map legend.
+Scrapyard reciving text messages. (just need them to show in messages)
 
 # 2.14.2022
 Added gang system with turf wars. (still needs configuring) 
