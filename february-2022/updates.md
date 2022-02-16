@@ -1,3 +1,9 @@
+# 2.16.2022
+Added drug labatorys.
+Fixed Harness.
+Edited rcore gang drug prices.
+Added extra house shells again.
+
 # 2.14.2022
 Added gang system with turf wars. (still needs configuring) 
 Added respected trigger events in to qb-drugs & qb-storerobbery
@@ -10,9 +16,6 @@ Removed qb-spawn
 Updated build 5352
 Removed old fishing script
 Added New World Fishing.
-Added drug labatorys.
-Fixed Harness.
-Edited rcore gang drug prices.
 
 
 # 2.12.2022
