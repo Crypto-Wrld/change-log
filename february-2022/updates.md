@@ -1,5 +1,6 @@
 # 2.18.2022
 Added makeup for vanilla unicorn.
+Added spray cans in hardware store.
 
 # 2.17.2022
 Updated drugs script.
