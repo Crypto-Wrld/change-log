@@ -3,6 +3,7 @@ Updated drugs script.
 Updated gangs script.
 Updated spray script.
 Updated vanilla unicorn.
+Updated jail locations.
 
 # 2.16.2022
 Added drug labatorys.
