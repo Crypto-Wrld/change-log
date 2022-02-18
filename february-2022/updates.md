@@ -2,6 +2,7 @@
 Added makeup for vanilla unicorn.
 Added spray cans in hardware store.
 
+
 # 2.17.2022
 Updated drugs script.
 Updated gangs script.
@@ -36,7 +37,7 @@ Added New World Fishing.
 
 # 2.12.2022
 Added missing petfood item.
-Added White Widow Job Correctly <3
+Added White Widow Job Correctly ♥
 Cleared pool props from white widow pool table.
 Updated Tuner Laptop
 
