@@ -2,6 +2,8 @@
 Fixed character deletion.
 Fixed fishing prices.
 Added fishing items in the lesuire shop.
+Updated job paychecks.
+
 
 # 2.18.2022
 Added makeup for vanilla unicorn.
