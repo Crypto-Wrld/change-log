@@ -1,3 +1,6 @@
+# 2.23.2022
+Fixed character deletion.
+
 # 2.18.2022
 Added makeup for vanilla unicorn.
 Added spray cans in hardware store.
