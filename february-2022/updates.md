@@ -3,6 +3,7 @@ Fixed character deletion.
 Fixed fishing prices.
 Added fishing items in the lesuire shop.
 Updated job paychecks.
+Added alta street apartments to spawn select. (19)
 
 
 # 2.18.2022
