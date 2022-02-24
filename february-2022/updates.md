@@ -1,3 +1,6 @@
+# 2.24.2022
+Added court house.
+
 # 2.23.2022
 Fixed character deletion.
 Fixed fishing prices.
