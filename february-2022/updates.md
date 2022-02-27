@@ -1,3 +1,11 @@
+# 2.26.2022
+Removed court house.
+Added city hall.
+Added laser sight to weapons.
+Removed default on duty for LEO & EMS jobs.
+Fixed timer for luckywheel.
+Removed blackjack.
+
 # 2.24.2022
 Added court house.
 
