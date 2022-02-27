@@ -3,6 +3,11 @@ Updated vehicleshop script.
 Updated AI MEDIC.
 Updated City Hall.
 Updated storage units.
+Added smoking items into stores.
+Added taser cartridge. (no more unlimted taser)
+Removed money washer.
+Removed money washing map.
+Removed LSCustoms map.
 
 # 2.26.2022
 Removed court house.
