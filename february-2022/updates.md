@@ -5,6 +5,7 @@ Added laser sight to weapons.
 Removed default on duty for LEO & EMS jobs.
 Fixed timer for luckywheel.
 Removed blackjack.
+Updated vehicles and prices in boosting.
 
 # 2.24.2022
 Added court house.
