@@ -1,3 +1,6 @@
+# 3.1.2022
+Removed okokbanking.
+
 # 2.27.2022
 Updated vehicleshop script.
 Updated AI MEDIC.
