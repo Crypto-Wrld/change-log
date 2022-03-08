@@ -3,6 +3,7 @@ Removed Highphone.
 Added Nopixel (inspired) Phone.
 Fixed dead.lua - Edited drawtext to not be overlayed. Also enabled control 47 [G]
 Added cd_dispatch (needs alerts configured)
+Fixed okokVehicleShop issue with owner blips not showing up.
 
 # 3.1.2022
 Removed okokbanking.
