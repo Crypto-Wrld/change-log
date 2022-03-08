@@ -1,3 +1,7 @@
+# 3.7.2022
+Removed Highphone.
+
+
 # 3.1.2022
 Removed okokbanking.
 
