@@ -1,5 +1,7 @@
 # 3.7.2022
 Removed Highphone.
+Added Nopixel (inspired) Phone.
+
 
 
 # 3.1.2022
