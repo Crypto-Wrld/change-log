@@ -1,7 +1,7 @@
 # 3.7.2022
 Removed Highphone.
 Added Nopixel (inspired) Phone.
-
+Fixed dead.lua - Edited drawtext to not be overlayed. Also enabled control 47 [G]
 
 
 # 3.1.2022
