@@ -6,6 +6,7 @@ Added cd_dispatch (needs alerts configured)
 Fixed okokVehicleShop issue with owner blips not showing up.
 Fixed all code3 cars issue with keys.
 Readded DERBY races!
+Added trade store. (good luck finding it) The doors do open and close at certain times...
 
 # 3.1.2022
 Removed okokbanking.
