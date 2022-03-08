@@ -7,6 +7,7 @@ Fixed okokVehicleShop issue with owner blips not showing up.
 Fixed all code3 cars issue with keys.
 Readded DERBY races!
 Added trade store. (good luck finding it) The doors do open and close at certain times...
+Added /event UI! bunch of cool shit soon to come!
 
 # 3.1.2022
 Removed okokbanking.
