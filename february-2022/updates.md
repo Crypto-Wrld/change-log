@@ -2,6 +2,7 @@
 Fixed vehilce flip.
 Added hayes auto job & configurations.
 Removed aircraft damages.
+Updated multicharacter screen. (Hopefully fixes issue some folks are having)
 
 # 3.7.2022
 Removed Highphone.
