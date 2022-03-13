@@ -1,5 +1,6 @@
 # 3.8.20200
 Fixed vehilce flip.
+Added hayes auto job & configurations.
 
 # 3.7.2022
 Removed Highphone.
