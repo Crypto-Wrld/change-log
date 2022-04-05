@@ -1,4 +1,7 @@
-# 3.8.20200
+# 4.4.2022
+Updated Server Artifacts.
+
+# 3.8.2022
 Fixed vehilce flip.
 Added hayes auto job & configurations.
 Removed aircraft damages.
