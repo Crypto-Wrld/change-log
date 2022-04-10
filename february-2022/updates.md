@@ -1,3 +1,21 @@
+# 4.10.2022
+Updated server Artifacts.
+Updated qbcore to lateset version.
+Updated qb-radio to a newer radio!
+
+Added header in pause menu.
+Added the ability to throw sneakers.
+Added the option to plant weed plants outside of homes!
+
+Fixed Recycle Job!
+Fixed Dispatch System (store robberies and Bank robberies) now show!
+Fixed issue with phone not showing the correct garage.
+Fixed Coords for Police job.
+Fixed Coords for Ambulance job.
+Fixed Luxury PDM MLO.
+
+Removed alot of unsed stuff.
+
 # 4.4.2022
 Updated Server Artifacts.
 
