@@ -1,6 +1,7 @@
 # 4.11.2022
 Updated qbcore player function.
-Updated hotdog job to qb-target
+Updated hotdog job to qb-target.
+Updated admin menu.
 
 # 4.10.2022
 Updated server Artifacts.
