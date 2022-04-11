@@ -1,3 +1,6 @@
+# 4.11.2022
+Updated qbcore player function.
+
 # 4.10.2022
 Updated server Artifacts.
 Updated qbcore to lateset version.
